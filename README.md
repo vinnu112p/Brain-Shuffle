@@ -3,7 +3,7 @@
 <p>
   🔗 <strong>Live Demo:</strong>
   <a href="https://brainhuffle.netlify.app/" target="_blank">
-    https://vinnu112p.github.io/Brain-Shuffle/
+      Play Now
   </a>
 </p>
 
