@@ -2,7 +2,7 @@
 
 <p>
   🔗 <strong>Live Demo:</strong>
-  <a href="https://brainhuffle.netlify.app/" target="_blank">
+  <a href="https://brainshuffle.netlify.app/" target="_blank">
       Play Now
   </a>
 </p>
